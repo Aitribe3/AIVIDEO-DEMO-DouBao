@@ -1,0 +1,15 @@
+{
+    "demo_title": "15秒动漫DEMO-魔法手小乌龙",
+    "generate_time": "2026-02-02 19:12:26",
+    "anime_image_url": "https://ark-content-generation-v2-cn-beijing.tos-cn-beijing.volces.com/doubao-seedream-4-5/021770030725472b4e125166fe9f384feaafba36acd7e48c2381b_0.jpeg?X-Tos-Algorithm=TOS4-HMAC-SHA256&X-Tos-Credential=AKLTYWJkZTExNjA1ZDUyNDc3YzhjNTM5OGIyNjBhNDcyOTQ%2F20260202%2Fcn-beijing%2Ftos%2Frequest&X-Tos-Date=20260202T111215Z&X-Tos-Expires=86400&X-Tos-Signature=e485e5cebda3e37a19743e0c26beb65166139f14030082e48e1760cdb8c5eece&X-Tos-SignedHeaders=host&x-tos-process=image%2Fwatermark%2Cimage_YXNzZXRzL3dhdGVybWFya192MS5wbmc_eC10b3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUscF8xMDk%3D%2Cx_96%2Cy_96",
+    "video_task_id": "cgt-20260202191216-8wc5n",
+    "video_status_url": "https://ark.cn-beijing.volces.com/api/v3/contents/generations/tasks/cgt-20260202191216-8wc5n",
+    "key_tips": [
+        "视频生成需要3-5分钟，请勿重复调用API浪费额度",
+        "复制video_status_url到浏览器可查询视频生成进度",
+        "视频生成成功后，浏览器页面会出现video_url，可下载高清视频",
+        "图片链接有效期7天，视频链接生成后请及时下载保存",
+        "本次生成图片尺寸1440x2560，满足模型最低像素要求，无黑边",
+        "视频任务ID：cgt-20260202191216-8wc5n，可在火山方舟后台查询任务进度"
+    ]
+}
